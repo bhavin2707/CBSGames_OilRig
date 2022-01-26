@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Belt
+  - Exit
+  - Ship
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Drag
+  - Barrel
+  - Ship
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 3152281343
+    locked: 0
+  - name: wake
+    uniqueID: 833456249
+    locked: 0
+  - name: ship
+    uniqueID: 1408576207
+    locked: 0
+  - name: bg_1
+    uniqueID: 3382204787
+    locked: 0
+  - name: bg_2
+    uniqueID: 1133548413
+    locked: 0
+  - name: bg_3
+    uniqueID: 3700893075
+    locked: 0
+  - name: bg_4
+    uniqueID: 1999967431
+    locked: 0
+  - name: oil 1
+    uniqueID: 1512890117
+    locked: 0
+  - name: bg_5
+    uniqueID: 1804925155
+    locked: 0
+  - name: bg_6
+    uniqueID: 3200680815
+    locked: 0
+  - name: UI
+    uniqueID: 835308293
+    locked: 0
